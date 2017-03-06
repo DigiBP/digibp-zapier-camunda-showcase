@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DigiBPZapierCamundaShowcase:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="digibp-zapier-camunda-showcase.war">
+      <element id="artifact" artifact-name="DigiBPZapierCamundaShowcase:war exploded" />
+    </root>
+  </artifact>
+</component>
